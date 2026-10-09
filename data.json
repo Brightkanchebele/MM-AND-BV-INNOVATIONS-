@@ -1,0 +1,1122 @@
+{
+  "transactions": [
+    {
+      "date": "2026-08-20",
+      "description": "CAPITAL",
+      "type": "Sale",
+      "amount": 3000,
+      "town": "KBW/LSK",
+      "category": "Sales",
+      "notes": "Imported from AUG"
+    },
+    {
+      "date": "2026-08-21",
+      "description": "PURCHASED NEW KIT",
+      "type": "Expense",
+      "amount": 2795,
+      "town": "TANZANIA",
+      "category": "Expense",
+      "notes": "Imported from AUG"
+    },
+    {
+      "date": null,
+      "description": "TRANSPORT",
+      "type": "Expense",
+      "amount": 300,
+      "town": "TANZANIA",
+      "category": "Expense",
+      "notes": "Imported from AUG"
+    },
+    {
+      "date": "2026-08-22",
+      "description": "REAL MADRID HOME KIT",
+      "type": "Sale",
+      "amount": 135,
+      "town": "KBW",
+      "category": "Sales",
+      "notes": "Imported from AUG"
+    },
+    {
+      "date": "2026-08-23",
+      "description": "REAL MADRID HOME KIT",
+      "type": "Sale",
+      "amount": 135,
+      "town": "KBW",
+      "category": "Sales",
+      "notes": "Imported from AUG"
+    },
+    {
+      "date": "2026-08-24",
+      "description": "REAL MADRID AWAY KIT PINK",
+      "type": "Sale",
+      "amount": 135,
+      "town": "KBW",
+      "category": "Sales",
+      "notes": "Imported from AUG"
+    },
+    {
+      "date": "2026-08-24",
+      "description": "MAN CITY BLACK",
+      "type": "Sale",
+      "amount": 135,
+      "town": "KBW",
+      "category": "Sales",
+      "notes": "Imported from AUG"
+    },
+    {
+      "date": "2026-08-24",
+      "description": "Asernal Away kit blue L",
+      "type": "Sale",
+      "amount": 135,
+      "town": "KBW",
+      "category": "Sales",
+      "notes": "Imported from AUG"
+    },
+    {
+      "date": "2026-08-24",
+      "description": "CHELSEA BLACK L",
+      "type": "Sale",
+      "amount": 135,
+      "town": "LSK",
+      "category": "Sales",
+      "notes": "Imported from AUG"
+    },
+    {
+      "date": "2026-08-24",
+      "description": "MAN CITY WHITE L",
+      "type": "Sale",
+      "amount": 135,
+      "town": "CHOMA",
+      "category": "Sales",
+      "notes": "Imported from AUG"
+    },
+    {
+      "date": "2026-08-24",
+      "description": "MAN CITY BLACK",
+      "type": "Sale",
+      "amount": 135,
+      "town": "CHOMA",
+      "category": "Sales",
+      "notes": "Imported from AUG"
+    },
+    {
+      "date": "2026-08-25",
+      "description": "MAN CITY HOME",
+      "type": "Sale",
+      "amount": 135,
+      "town": "CBU",
+      "category": "Sales",
+      "notes": "Imported from AUG"
+    },
+    {
+      "date": "2026-08-24",
+      "description": "FIRST CLASS REAL MADRID",
+      "type": "Sale",
+      "amount": 210,
+      "town": "KAFUE",
+      "category": "Sales",
+      "notes": "Imported from AUG"
+    },
+    {
+      "date": "2026-08-24",
+      "description": "TRANSPORT FOR LSK TOWN",
+      "type": "Expense",
+      "amount": 30,
+      "town": "LSK",
+      "category": "Expense",
+      "notes": "Imported from AUG"
+    },
+    {
+      "date": "2026-08-25",
+      "description": "PORTUGAL",
+      "type": "Sale",
+      "amount": 100,
+      "town": "KBW",
+      "category": "Sales",
+      "notes": "Imported from AUG"
+    },
+    {
+      "date": "2026-08-25",
+      "description": "REAL MADRID HOME KIT XL",
+      "type": "Sale",
+      "amount": 135,
+      "town": "LSK",
+      "category": "Sales",
+      "notes": "Imported from AUG"
+    },
+    {
+      "date": "2026-08-25",
+      "description": "LIVERPOOL",
+      "type": "Sale",
+      "amount": 135,
+      "town": "LSK",
+      "category": "Sales",
+      "notes": "Imported from AUG"
+    },
+    {
+      "date": "2026-08-25",
+      "description": "PSG",
+      "type": "Sale",
+      "amount": 135,
+      "town": "LSK",
+      "category": "Sales",
+      "notes": "Imported from AUG"
+    },
+    {
+      "date": "2026-08-26",
+      "description": "MAN U BLUE",
+      "type": "Sale",
+      "amount": 130,
+      "town": "LSK",
+      "category": "Sales",
+      "notes": "Imported from AUG"
+    },
+    {
+      "date": "2026-08-26",
+      "description": "BAYERN",
+      "type": "Sale",
+      "amount": 135,
+      "town": "KBW",
+      "category": "Sales",
+      "notes": "Imported from AUG"
+    },
+    {
+      "date": "2026-08-26",
+      "description": "TJK SHARE",
+      "type": "Expense",
+      "amount": 205,
+      "town": "KBW",
+      "category": "Expense",
+      "notes": "Imported from AUG"
+    },
+    {
+      "date": "2026-08-26",
+      "description": "TRANSPORT FOR KBE TOWN",
+      "type": "Expense",
+      "amount": 20,
+      "town": "LSK",
+      "category": "Expense",
+      "notes": "Imported from AUG"
+    },
+    {
+      "date": "2026-08-26",
+      "description": "CHELSEA L",
+      "type": "Sale",
+      "amount": 130,
+      "town": "LSK",
+      "category": "Sales",
+      "notes": "Imported from AUG"
+    },
+    {
+      "date": "2026-08-27",
+      "description": "MAN U",
+      "type": "Sale",
+      "amount": 135,
+      "town": "LSK",
+      "category": "Sales",
+      "notes": "Imported from AUG"
+    },
+    {
+      "date": "2026-08-28",
+      "description": "LIVERPOOL white",
+      "type": "Sale",
+      "amount": 135,
+      "town": "lsk",
+      "category": "Sales",
+      "notes": "Imported from AUG"
+    },
+    {
+      "date": "2026-08-28",
+      "description": "PURCHASED NEW KIT",
+      "type": "Expense",
+      "amount": 2165,
+      "town": "TANZANIA",
+      "category": "Expense",
+      "notes": "Imported from AUG"
+    },
+    {
+      "date": "2026-08-29",
+      "description": "TRANSPORT",
+      "type": "Expense",
+      "amount": 155,
+      "town": "TANZANIA",
+      "category": "Expense",
+      "notes": "Imported from AUG"
+    },
+    {
+      "date": "2026-08-30",
+      "description": "transport",
+      "type": "Expense",
+      "amount": 30,
+      "town": "KBW",
+      "category": "Expense",
+      "notes": "Imported from AUG"
+    },
+    {
+      "date": "2026-08-31",
+      "description": "Man city WHITE",
+      "type": "Sale",
+      "amount": 135,
+      "town": "LSK",
+      "category": "Sales",
+      "notes": "Imported from AUG"
+    },
+    {
+      "date": "2026-08-31",
+      "description": "ASERNAL HOME",
+      "type": "Sale",
+      "amount": 135,
+      "town": "KBW",
+      "category": "Sales",
+      "notes": "Imported from AUG"
+    },
+    {
+      "date": "2026-08-31",
+      "description": "REAL MADRID HOME KIT XL",
+      "type": "Sale",
+      "amount": 130,
+      "town": "KBW",
+      "category": "Sales",
+      "notes": "Imported from AUG"
+    },
+    {
+      "date": "2026-09-01",
+      "description": "LIVERPOOL white",
+      "type": "Sale",
+      "amount": 135,
+      "town": "LSK",
+      "category": "Sales",
+      "notes": "Imported from SEPT"
+    },
+    {
+      "date": "2026-09-01",
+      "description": "MANCHESTER CITY BLACK",
+      "type": "Sale",
+      "amount": 125,
+      "town": "LSK",
+      "category": "Sales",
+      "notes": "Imported from SEPT"
+    },
+    {
+      "date": "2026-09-01",
+      "description": "LIVERPOOL BLACK L",
+      "type": "Sale",
+      "amount": 135,
+      "town": "LSK",
+      "category": "Sales",
+      "notes": "Imported from SEPT"
+    },
+    {
+      "date": "2026-09-01",
+      "description": "LIVERPOOL BLACK XL",
+      "type": "Sale",
+      "amount": 135,
+      "town": "LSK",
+      "category": "Sales",
+      "notes": "Imported from SEPT"
+    },
+    {
+      "date": "2026-09-01",
+      "description": "BARCELONA HOME",
+      "type": "Sale",
+      "amount": 135,
+      "town": "KBW",
+      "category": "Sales",
+      "notes": "Imported from SEPT"
+    },
+    {
+      "date": "2026-09-01",
+      "description": "BARCELONA HOME",
+      "type": "Sale",
+      "amount": 135,
+      "town": "KBW",
+      "category": "Sales",
+      "notes": "Imported from SEPT"
+    },
+    {
+      "date": "2026-09-01",
+      "description": "BARCELONA HOME sold at order to SUPER GIA",
+      "type": "Sale",
+      "amount": 135,
+      "town": "LSK",
+      "category": "Sales",
+      "notes": "Imported from SEPT"
+    },
+    {
+      "date": "2026-09-01",
+      "description": "REAL MADRID HOME KIT XL",
+      "type": "Sale",
+      "amount": 135,
+      "town": "KBE",
+      "category": "Sales",
+      "notes": "Imported from SEPT"
+    },
+    {
+      "date": "2026-09-01",
+      "description": "TRANSPORT LSK TOWN",
+      "type": "Expense",
+      "amount": 20,
+      "town": "LSK",
+      "category": "Expense",
+      "notes": "Imported from SEPT"
+    },
+    {
+      "date": "2026-09-01",
+      "description": "TRANSPORT KBE TOWN",
+      "type": "Expense",
+      "amount": 20,
+      "town": "KBE",
+      "category": "Expense",
+      "notes": "Imported from SEPT"
+    },
+    {
+      "date": "2026-09-02",
+      "description": "SUPER GIA  CREDIT",
+      "type": "Expense",
+      "amount": 1000,
+      "town": "MBALA",
+      "category": "Expense",
+      "notes": "Imported from SEPT"
+    },
+    {
+      "date": "2026-09-02",
+      "description": "MAN U HOME L",
+      "type": "Sale",
+      "amount": 135,
+      "town": "KBW",
+      "category": "Sales",
+      "notes": "Imported from SEPT"
+    },
+    {
+      "date": "2026-09-03",
+      "description": "BARCELONA PURPLE L",
+      "type": "Sale",
+      "amount": 135,
+      "town": "KBW",
+      "category": "Sales",
+      "notes": "Imported from SEPT"
+    },
+    {
+      "date": "2026-09-04",
+      "description": "BARYEN AWAY KIT WHITE",
+      "type": "Sale",
+      "amount": 130,
+      "town": "KBW",
+      "category": "Sales",
+      "notes": "Imported from SEPT"
+    },
+    {
+      "date": "2026-09-04",
+      "description": "REAL MADRID AWAY KIT PINK",
+      "type": "Sale",
+      "amount": 130,
+      "town": "KBW",
+      "category": "Sales",
+      "notes": "Imported from SEPT"
+    },
+    {
+      "date": "2026-09-04",
+      "description": "ASERNAL HOM KIT",
+      "type": "Sale",
+      "amount": 130,
+      "town": "KBW",
+      "category": "Sales",
+      "notes": "Imported from SEPT"
+    },
+    {
+      "date": "2026-09-04",
+      "description": "MAN CITY LOGO",
+      "type": "Sale",
+      "amount": 100,
+      "town": "KBW",
+      "category": "Sales",
+      "notes": "Imported from SEPT"
+    },
+    {
+      "date": "2026-09-04",
+      "description": "TRANSPORT KABWE TOWN",
+      "type": "Expense",
+      "amount": 10,
+      "town": "KBW",
+      "category": "Expense",
+      "notes": "Imported from SEPT"
+    },
+    {
+      "date": "2026-09-04",
+      "description": "MM AND BV",
+      "type": "Expense",
+      "amount": 60,
+      "town": "KBW",
+      "category": "Expense",
+      "notes": "Imported from SEPT"
+    },
+    {
+      "date": "2026-09-05",
+      "description": "MAN U WHITE XL",
+      "type": "Sale",
+      "amount": 135,
+      "town": "KBW",
+      "category": "Sales",
+      "notes": "Imported from SEPT"
+    },
+    {
+      "date": "2026-09-05",
+      "description": "MAN CITY HOME",
+      "type": "Sale",
+      "amount": 135,
+      "town": "KBW",
+      "category": "Sales",
+      "notes": "Imported from SEPT"
+    },
+    {
+      "date": "2026-09-05",
+      "description": "MAN U HOME KIT",
+      "type": "Sale",
+      "amount": 130,
+      "town": "KBW",
+      "category": "Sales",
+      "notes": "Imported from SEPT"
+    },
+    {
+      "date": "2026-09-05",
+      "description": "MAN U HOME XL",
+      "type": "Sale",
+      "amount": 135,
+      "town": "KBW",
+      "category": "Sales",
+      "notes": "Imported from SEPT"
+    },
+    {
+      "date": "2026-09-05",
+      "description": "TJK  CREDITED",
+      "type": "Expense",
+      "amount": 110,
+      "town": "MU",
+      "category": "Expense",
+      "notes": "Imported from SEPT"
+    },
+    {
+      "date": "2026-09-06",
+      "description": "man u beigh l",
+      "type": "Sale",
+      "amount": 130,
+      "town": "KBW",
+      "category": "Sales",
+      "notes": "Imported from SEPT"
+    },
+    {
+      "date": "2026-09-13",
+      "description": "LIVEPOOL HOME XL",
+      "type": "Sale",
+      "amount": 130,
+      "town": "KBW",
+      "category": "Sales",
+      "notes": "Imported from SEPT"
+    },
+    {
+      "date": "2026-09-13",
+      "description": "TJK PAID BACK",
+      "type": "Sale",
+      "amount": 110,
+      "town": "MU",
+      "category": "Sales",
+      "notes": "Imported from SEPT"
+    },
+    {
+      "date": "2026-09-13",
+      "description": "PURCHASED KIT 1 First Class AND 1 Standard Class",
+      "type": "Expense",
+      "amount": 260,
+      "town": "lsk",
+      "category": "Expense",
+      "notes": "Imported from SEPT"
+    },
+    {
+      "date": "2026-09-13",
+      "description": "TRANSPORT AND WITHDRAW CHARGE",
+      "type": "Expense",
+      "amount": 40,
+      "town": "lsk",
+      "category": "Expense",
+      "notes": "Imported from SEPT"
+    },
+    {
+      "date": "2026-09-14",
+      "description": "BARCELONA AWAY KIT PURPLE",
+      "type": "Sale",
+      "amount": 130,
+      "town": "kbw",
+      "category": "Sales",
+      "notes": "Imported from SEPT"
+    },
+    {
+      "date": "2026-09-14",
+      "description": "MAN CITY FIRST CLASS",
+      "type": "Sale",
+      "amount": 250,
+      "town": "kbw",
+      "category": "Sales",
+      "notes": "Imported from SEPT"
+    },
+    {
+      "date": "2026-09-14",
+      "description": "CHARLES  KBE",
+      "type": "Expense",
+      "amount": 50,
+      "town": "kbw",
+      "category": "Expense",
+      "notes": "Imported from SEPT"
+    },
+    {
+      "date": "2026-09-14",
+      "description": "LIVERPOOL FIRST CLASS",
+      "type": "Sale",
+      "amount": 200,
+      "town": "kbw",
+      "category": "Sales",
+      "notes": "Imported from SEPT"
+    },
+    {
+      "date": "2026-09-14",
+      "description": "LIVERPOOL HOME L",
+      "type": "Sale",
+      "amount": 135,
+      "town": "kbw",
+      "category": "Sales",
+      "notes": "Imported from SEPT"
+    },
+    {
+      "date": "2026-09-17",
+      "description": "LIVERPOOL HOME L",
+      "type": "Sale",
+      "amount": 130,
+      "town": "kbw",
+      "category": "Sales",
+      "notes": "Imported from SEPT"
+    },
+    {
+      "date": "2026-09-18",
+      "description": "chelsea",
+      "type": "Sale",
+      "amount": 100,
+      "town": "kbw",
+      "category": "Sales",
+      "notes": "Imported from SEPT"
+    },
+    {
+      "date": "2026-09-20",
+      "description": "MANCHESTER",
+      "type": "Sale",
+      "amount": 130,
+      "town": "kbw",
+      "category": "Sales",
+      "notes": "Imported from SEPT"
+    },
+    {
+      "date": "2026-09-20",
+      "description": "chelsea HOME BLUE KIT",
+      "type": "Sale",
+      "amount": 100,
+      "town": "kbw",
+      "category": "Sales",
+      "notes": "Imported from SEPT"
+    },
+    {
+      "date": "2026-09-22",
+      "description": "PSG HOME KIT",
+      "type": "Sale",
+      "amount": 135,
+      "town": "kbw",
+      "category": "Sales",
+      "notes": "Imported from SEPT"
+    },
+    {
+      "date": "2026-09-22",
+      "description": "BARCELONA   HOME",
+      "type": "Sale",
+      "amount": 135,
+      "town": "kbw",
+      "category": "Sales",
+      "notes": "Imported from SEPT"
+    },
+    {
+      "date": "2026-09-26",
+      "description": "MAN U BEIGH",
+      "type": "Sale",
+      "amount": 135,
+      "town": "kbw",
+      "category": "Sales",
+      "notes": "Imported from SEPT"
+    },
+    {
+      "date": "2026-09-26",
+      "description": "TWO FIRST CLASS (BANA ANGUISA )",
+      "type": "Sale",
+      "amount": 500,
+      "town": "kbw",
+      "category": "Sales",
+      "notes": "Imported from SEPT"
+    },
+    {
+      "date": "2026-09-26",
+      "description": "CHELSEA AWAY KIT BLACK",
+      "type": "Sale",
+      "amount": 135,
+      "town": "kbw",
+      "category": "Sales",
+      "notes": "Imported from SEPT"
+    },
+    {
+      "date": "2026-09-27",
+      "description": "PLATINUM CHOMA",
+      "type": "Expense",
+      "amount": 40,
+      "town": "LSK",
+      "category": "Expense",
+      "notes": "Imported from SEPT"
+    },
+    {
+      "date": "2026-09-28",
+      "description": "TJK",
+      "type": "Expense",
+      "amount": 600,
+      "town": "MU",
+      "category": "Expense",
+      "notes": "Imported from SEPT"
+    },
+    {
+      "date": "2026-09-30",
+      "description": "MAN CITY WHITE",
+      "type": "Sale",
+      "amount": 135,
+      "town": "LSK",
+      "category": "Sales",
+      "notes": "Imported from SEPT"
+    },
+    {
+      "date": "2026-10-02",
+      "description": "CHELSEA BLACK",
+      "type": "Sale",
+      "amount": 110,
+      "town": "LSK",
+      "category": "Sales",
+      "notes": "Imported from OCT"
+    },
+    {
+      "date": "2026-10-02",
+      "description": "MAN U HOME",
+      "type": "Sale",
+      "amount": 110,
+      "town": "LSK",
+      "category": "Sales",
+      "notes": "Imported from OCT"
+    },
+    {
+      "date": "2026-10-02",
+      "description": "CHEALSE HOME KIT L",
+      "type": "Sale",
+      "amount": 110,
+      "town": "LSK",
+      "category": "Sales",
+      "notes": "Imported from OCT"
+    },
+    {
+      "date": "2026-10-02",
+      "description": "ASERNAL HOME KIT",
+      "type": "Sale",
+      "amount": 110,
+      "town": "LSK",
+      "category": "Sales",
+      "notes": "Imported from OCT"
+    },
+    {
+      "date": "2026-10-03",
+      "description": "man u first class",
+      "type": "Sale",
+      "amount": 250,
+      "town": "LSK",
+      "category": "Sales",
+      "notes": "Imported from OCT"
+    },
+    {
+      "date": "2026-10-04",
+      "description": "barcelona away kit blue",
+      "type": "Sale",
+      "amount": 125,
+      "town": "KBW",
+      "category": "Sales",
+      "notes": "Imported from OCT"
+    },
+    {
+      "date": "2026-10-05",
+      "description": "chelsea jamper",
+      "type": "Sale",
+      "amount": 200,
+      "town": "KBW",
+      "category": "Sales",
+      "notes": "Imported from OCT"
+    },
+    {
+      "date": "2026-10-06",
+      "description": "asernal jamper",
+      "type": "Sale",
+      "amount": 200,
+      "town": "KBW",
+      "category": "Sales",
+      "notes": "Imported from OCT"
+    },
+    {
+      "date": "2026-10-09",
+      "description": "man city home",
+      "type": "Sale",
+      "amount": 100,
+      "town": "kbw",
+      "category": "Sales",
+      "notes": "Imported from OCT"
+    }
+  ],
+  "stock": [
+    {
+      "item": "BARLONA AWAY KIT PURPLE",
+      "size": "L",
+      "location": "Kabwe",
+      "status": "In stock"
+    },
+    {
+      "item": "BARCELONA HOME KIT",
+      "size": "L",
+      "location": "Kabwe",
+      "status": "In stock"
+    },
+    {
+      "item": "BARCELONA HOME KIT",
+      "size": "L",
+      "location": "Kabwe",
+      "status": "In stock"
+    },
+    {
+      "item": "MAN U HOME L",
+      "size": "L",
+      "location": "Kabwe",
+      "status": "In stock"
+    },
+    {
+      "item": "MAN CITY HOME KIT",
+      "size": "XL,L",
+      "location": "Kabwe",
+      "status": "In stock"
+    },
+    {
+      "item": "MAN CITY HOME KIT",
+      "size": "XL,L",
+      "location": "Kabwe",
+      "status": "In stock"
+    },
+    {
+      "item": "MAN U HOME L",
+      "size": "L",
+      "location": "Kabwe",
+      "status": "In stock"
+    },
+    {
+      "item": "ASERNAL HOME KIT",
+      "size": "L",
+      "location": "Kabwe",
+      "status": "In stock"
+    },
+    {
+      "item": "ASERNAL HOME KIT",
+      "size": "L",
+      "location": "Kabwe",
+      "status": "In stock"
+    },
+    {
+      "item": "LIVERPOOL WHITE",
+      "size": "L",
+      "location": "Kabwe",
+      "status": "In stock"
+    },
+    {
+      "item": "MAN U BEIGH",
+      "size": "L",
+      "location": "Kabwe",
+      "status": "In stock"
+    },
+    {
+      "item": "MAN U BEIGH",
+      "size": "L",
+      "location": "Kabwe",
+      "status": "In stock"
+    },
+    {
+      "item": "LIVERPOOL HOME",
+      "size": "XL",
+      "location": "Kabwe",
+      "status": "In stock"
+    },
+    {
+      "item": "BARCELONA  PURPLE l",
+      "size": "l",
+      "location": "Kabwe",
+      "status": "In stock"
+    },
+    {
+      "item": "LIVERPOOL HOME",
+      "size": "M",
+      "location": "Kabwe",
+      "status": "In stock"
+    },
+    {
+      "item": "BARCELONA HOME KIT",
+      "size": "L",
+      "location": "Kabwe",
+      "status": "In stock"
+    },
+    {
+      "item": "CHELSEA HOME KIT",
+      "size": "XL,",
+      "location": "Kabwe",
+      "status": "In stock"
+    },
+    {
+      "item": "CHELSEA BLACK",
+      "size": "L",
+      "location": "Kabwe",
+      "status": "In stock"
+    },
+    {
+      "item": "MAN U BLUE",
+      "size": "L",
+      "location": "Kabwe",
+      "status": "In stock"
+    },
+    {
+      "item": "BARCELONA  THIRD KIT l",
+      "size": "l",
+      "location": "Kabwe",
+      "status": "In stock"
+    },
+    {
+      "item": "CHELSEA HOME KIT",
+      "size": "—",
+      "location": "Kabwe",
+      "status": "In stock"
+    },
+    {
+      "item": "MAN CITY HOME KIT",
+      "size": "XL,L",
+      "location": "Kabwe",
+      "status": "In stock"
+    },
+    {
+      "item": "MAN CITY BLACK",
+      "size": "l",
+      "location": "Kabwe",
+      "status": "In stock"
+    },
+    {
+      "item": "ASERNAL HOME KIT",
+      "size": "XL",
+      "location": "Kabwe",
+      "status": "In stock"
+    },
+    {
+      "item": "LIVERPOOL BLACK",
+      "size": "M",
+      "location": "Kabwe",
+      "status": "In stock"
+    },
+    {
+      "item": "LIVERPOOL M",
+      "size": "—",
+      "location": "Kabwe",
+      "status": "In stock"
+    },
+    {
+      "item": "MAN CITY FIRST CLASS",
+      "size": "—",
+      "location": "Kabwe",
+      "status": "In stock"
+    },
+    {
+      "item": "MAN CITY BLACK",
+      "size": "L",
+      "location": "Lusaka",
+      "status": "In stock"
+    },
+    {
+      "item": "MAN CITY WHITE",
+      "size": "XL",
+      "location": "Lusaka",
+      "status": "In stock"
+    },
+    {
+      "item": "BARCELONA HOME",
+      "size": "L",
+      "location": "Lusaka",
+      "status": "In stock"
+    },
+    {
+      "item": "LIVERPOOL BLACK",
+      "size": "L,XL",
+      "location": "Lusaka",
+      "status": "In stock"
+    },
+    {
+      "item": "LIVERPOOL BLACK",
+      "size": "L,XL",
+      "location": "Lusaka",
+      "status": "In stock"
+    },
+    {
+      "item": "LIVERPOOL BLACK",
+      "size": "L,XL",
+      "location": "Lusaka",
+      "status": "In stock"
+    },
+    {
+      "item": "liverpool red",
+      "size": "l",
+      "location": "Lusaka",
+      "status": "In stock"
+    },
+    {
+      "item": "MAN CITY WHITE",
+      "size": "L",
+      "location": "Lusaka",
+      "status": "In stock"
+    },
+    {
+      "item": "CHELSEA BLACK",
+      "size": "L,XL",
+      "location": "Lusaka",
+      "status": "In stock"
+    },
+    {
+      "item": "MAN U HOME",
+      "size": "XL",
+      "location": "Lusaka",
+      "status": "In stock"
+    },
+    {
+      "item": "CHEALSE HOME KIT L",
+      "size": "L",
+      "location": "Lusaka",
+      "status": "In stock"
+    },
+    {
+      "item": "ASERNAL HOME KIT",
+      "size": "L",
+      "location": "Lusaka",
+      "status": "In stock"
+    },
+    {
+      "item": "MAN CITY L",
+      "size": "L",
+      "location": "Lusaka",
+      "status": "In stock"
+    },
+    {
+      "item": "MAN U HOME",
+      "size": "—",
+      "location": "Lusaka",
+      "status": "In stock"
+    },
+    {
+      "item": "CHELSEA BLACK",
+      "size": "L,XL",
+      "location": "Lusaka",
+      "status": "In stock"
+    },
+    {
+      "item": "MAN U HOME  KIT",
+      "size": "—",
+      "location": "Lusaka",
+      "status": "In stock"
+    }
+  ],
+  "layby": [
+    {
+      "customer": "CATHERINE  KBW",
+      "item": "REALMADRID BLUE",
+      "price": 135,
+      "paid": 100,
+      "balance": 35,
+      "comments": "STANDARD CLASS"
+    },
+    {
+      "customer": "KBW/DAVID",
+      "item": "MAN U BLUE",
+      "price": 135,
+      "paid": 125,
+      "balance": 10,
+      "comments": "STANDARD CLASS"
+    },
+    {
+      "customer": "UNCLE MULE",
+      "item": "ASERNAL",
+      "price": 250,
+      "paid": 0,
+      "balance": 250,
+      "comments": "STANDARD CLASS"
+    },
+    {
+      "customer": "TJK",
+      "item": "CREDIT",
+      "price": 600,
+      "paid": 400,
+      "balance": 200,
+      "comments": "CREDIT"
+    },
+    {
+      "customer": "SUPER GIA",
+      "item": "CREDIT K1000",
+      "price": 1000,
+      "paid": 0,
+      "balance": 1000,
+      "comments": null
+    },
+    {
+      "customer": "BA RHODAH",
+      "item": "BALANCE",
+      "price": 100,
+      "paid": 0,
+      "balance": 100,
+      "comments": "CREDIT"
+    },
+    {
+      "customer": "CHARLES",
+      "item": "CREDIT",
+      "price": 50,
+      "paid": 0,
+      "balance": 50,
+      "comments": "CREDIT"
+    }
+  ],
+  "team": [
+    {
+      "name": "Manager",
+      "role": "Business Manager",
+      "location": "All branches",
+      "status": "Active"
+    },
+    {
+      "name": "Lusaka Team",
+      "role": "Sales & Stock",
+      "location": "Lusaka",
+      "status": "Active"
+    },
+    {
+      "name": "Kabwe Team",
+      "role": "Sales & Stock",
+      "location": "Kabwe",
+      "status": "Active"
+    }
+  ],
+  "meta": {
+    "business": "Jersey Business",
+    "currency": "ZMW",
+    "importedFrom": "JEARSEY ACCOUNT 1.xlsx",
+    "generated": "2026-10-09"
+  }
+}
